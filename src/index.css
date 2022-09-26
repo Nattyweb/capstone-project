@@ -63,8 +63,9 @@ code {
 }
 .card-page{
   /* display: flex;
-  display: inline-flex; */
-  /* margin-left: 100px; */
+  display: inline-flex; 
+  margin-left: 100px; 
+  */
   margin-top: 20px;
   
 }
@@ -77,9 +78,11 @@ code {
   margin-left: 50px;
   width: 650px;
 }
-/* .card-body{
+/*
+ .card-body{
   width: 1000px;
-} */
+} 
+*/
 .card-page h3{
   margin-left: -90px;
  color: hsl(219, 100%, 50%);
@@ -118,8 +121,9 @@ font-size: 40px;
 color: white;
 margin: 0 0 0 140px;
 /* background-color: lightgray; */
-/* transform: rotate(-90deg); */ */
-/* } */
+/* transform: rotate(-90deg); */
+/* } 
+*/
 .principles-page  h3{
   color: white;
   width: 400px;
